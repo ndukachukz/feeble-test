@@ -8,7 +8,7 @@ export const Route = createFileRoute("/")({
 
 function App() {
 	return (
-		<main>
+		<main className="">
 			<Hero />
 		</main>
 	);
